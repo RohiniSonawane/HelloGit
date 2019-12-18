@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cmo.csi.fact;
+
+/**
+ * @author Admin
+ *
+ */
+public class swpping {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
