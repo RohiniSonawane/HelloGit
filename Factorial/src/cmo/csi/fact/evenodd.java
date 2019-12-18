@@ -28,6 +28,7 @@ public class evenodd {
 		else
 		{
 			System.out.println(n);
+			System.out.println(n);
 			System.out.println("Odd No"+n);
 		}
 		
